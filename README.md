@@ -1,4 +1,4 @@
-<h1>Hello, I'm Tom, an <a href="www.linkedin.com/in/thomas-lazier-8870a7306">IT Professional</a>☺</h1>
+<h1>Hello, I'm Tom, an <a href="www.linkedin.com/in/thomas-lazier-8870a7306">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
